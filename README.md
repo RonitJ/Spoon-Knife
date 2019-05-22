@@ -1,4 +1,5 @@
 ### Well hello there!
+[![Build Status](https://dev.azure.com/ronitjawalekar/trial/_apis/build/status/RonitJ.Spoon-Knife?branchName=master)](https://dev.azure.com/ronitjawalekar/trial/_build/latest?definitionId=3&branchName=master)
 
 This repository is meant to provide an example for *forking* a repository on GitHub.
 
